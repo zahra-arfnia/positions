@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.First{
+    width: 180px;
+    height:100px;
+    background-color: rgba(109, 238, 210, 0.979);
+    position: relative;
+  
+}
+.Second{
+    width: 180px;
+   height:100px ;
+   background-color: orange;
+    position: absolute;
+    left: 40px;
+    top: 30px;
+   
+}

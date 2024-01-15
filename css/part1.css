@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.big-square{
+    width: 300px;
+    height: 300px;
+    border:  solid black 1px;
+    position: relative;
+    
+}
+.small-square1{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(118, 223, 226);
+    position: absolute;
+    top: 5px;
+    right:5px;
+}
+.small-square2{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(118, 223, 226);
+    position:absolute;
+    top: 5px;
+    left: 5px;
+ }   
+ .small-square3{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(118, 223, 226);
+    position:absolute;
+    bottom: 5px;
+    right:5px;
+ }   
+ .small-square4{
+    width: 60px;
+    height: 60px;
+    background-color: rgb(118, 223, 226);
+    position:absolute;
+    bottom:  5px;
+    left: 5px;
+ }

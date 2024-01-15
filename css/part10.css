@@ -1,0 +1,49 @@
+*{
+   margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+   border-radius: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+ border: 3px solid rgb(68, 10, 10);
+}
+.big-div{
+    width: 330px;
+    height: 430px;
+   border-radius: 20px;
+   border-color: rgba(100, 100, 100, 0.459);
+   background-color: rgba(253, 246, 246, 0.911);
+   box-sizing: 1.5px;
+   border-style: solid;
+}
+.apple{
+    font-size: 2rem;
+    margin-left: 20px;
+}
+p{
+    font-size: 1rem;
+    margin-left: 20px;
+    color: rgb(104, 104, 107);
+}
+.Price{
+    margin-left: 20px;
+    color: orange;
+    font-size: 1.5rem;
+    display: block;
+    margin-bottom: 30px;
+}
+a{
+
+    margin-left: 20px;
+    width: 80px;
+    height: 40px;
+    color: white;
+   background-color: orange;
+   text-align: center;
+   border-radius: 3px;
+   padding: 10px;
+   text-decoration: none;
+
+}

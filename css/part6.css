@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    background-color: rgb(1, 1, 36);
+}
+div{
+    background-color: yellow;
+    margin: auto;
+    margin-top: 250px;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: relative;
+}
+span{
+    background-color: rgb(1, 1, 36);
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: absolute;
+    right: 20px;
+    bottom: 5px;
+}

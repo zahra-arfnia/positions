@@ -1,0 +1,423 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.big-div{
+    width: 360px;
+    height: 360px;
+    background-color: white;
+    margin: auto;
+    margin-top: 150px;
+    position: relative;
+}
+.small-div1{
+width: 40px;
+height: 40px;
+background-color: red;
+position: absolute;
+top: 40px;
+border: 0.5px solid white;
+}
+.small-div2{
+width: 40px;
+height: 40px;
+background-color: red;
+position: absolute;   
+top: 80px;
+border: 0.5px solid white;
+}
+.small-div3{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    top: 120px;
+    border: 0.5px solid white;
+    }
+
+.small-div4{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 40px;
+    border: 0.5px solid white;
+
+}      
+.small-div5{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 40px;
+    top: 40px;
+    border: 0.5px solid white;  
+}
+.small-div6{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 40px;
+    top: 80px;
+    border: 0.5px solid white;  
+}
+.small-div7{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 40px;
+    top: 120px;
+    border: 0.5px solid white;  
+}
+.small-div8{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 40px;
+    top: 160px;
+    border: 0.5px solid white; 
+}
+.small-div9{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 80px;
+    border: 0.5px solid white; 
+}
+.small-div10{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 80px;
+    top: 40px;
+    border: 0.5px solid white; 
+}
+.small-div11{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 80px;
+    top: 80px;
+    border: 0.5px solid white; 
+}
+.small-div12{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 80px;
+    top: 120px;
+    border: 0.5px solid white; 
+}
+.small-div13{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 80px;
+    top: 160px;
+    border: 0.5px solid white; 
+}
+.small-div14{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 80px;
+    top: 200px;
+    border: 0.5px solid white; 
+}
+.small-div15{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 120px;
+    top: 40px;
+    border: 0.5px solid white; 
+}
+.small-div16{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 120px;
+    top:80px;
+    border: 0.5px solid white; 
+}
+.small-div17{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 120px;
+    top: 120px;
+    border: 0.5px solid white; 
+}
+.small-div18{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 120px;
+    top: 160px;
+    border: 0.5px solid white; 
+}
+.small-div19{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 120px;
+    top: 200px;
+    border: 0.5px solid white; 
+}
+.small-div20{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 120px;
+    top: 240px;
+    border: 0.5px solid white; 
+}
+.small-div21{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 160px;
+    top: 80px;
+    border: 0.5px solid white; 
+}
+.small-div22{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 160px;
+    top: 120px;
+    border: 0.5px solid white; 
+}
+.small-div23{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 160px;
+    top: 160px;
+    border: 0.5px solid white; 
+}
+.small-div24{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 160px;
+    top: 200px;
+    border: 0.5px solid white; 
+}
+.small-div25{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 160px;
+    top: 240px;
+    border: 0.5px solid white; 
+}
+
+.small-div26{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 160px;
+    top: 280px;
+    border: 0.5px solid white; 
+}
+.small-div27{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 200px;
+    top: 40px;
+    border: 0.5px solid white; 
+}
+.small-div28{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 200px;
+    top: 80px;
+    border: 0.5px solid white; 
+}
+.small-div29{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 200px;
+    top: 120px;
+    border: 0.5px solid white; 
+}
+.small-div30{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 200px;
+    top: 160px;
+    border: 0.5px solid white; 
+}
+.small-div31{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 200px;
+    top: 200px;
+    border: 0.5px solid white; 
+}
+.small-div32{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    left: 200px;
+    top: 240px;
+    border: 0.5px solid white; 
+}
+.small-div33{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 80px;
+    border: 0.5px solid white; 
+}
+.small-div34{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 80px;
+    top: 40px;
+    border: 0.5px solid white; 
+}
+.small-div35{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 80px;
+    top: 80px;
+    border: 0.5px solid white; 
+}
+.small-div36{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 80px;
+    top: 120px;
+    border: 0.5px solid white; 
+}
+.small-div37{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 80px;
+    top: 160px;
+    border: 0.5px solid white; 
+}
+.small-div38{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 80px;
+    top: 200px;
+    border: 0.5px solid white; 
+}
+.small-div39{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 40px;
+   border:  0.5px solid white; 
+}
+.small-div40{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 40px;
+    top: 40px;
+    border: 0.5px solid white; 
+}
+.small-div41{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 40px;
+    top: 80px;
+    border: 0.5px solid white; 
+}
+.small-div42{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 40px;
+    top: 120px;
+    border: 0.5px solid white; 
+}
+.small-div43{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 40px;
+    top: 160px;
+    border: 0.5px solid white; 
+}
+.small-div44{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 0;
+    top: 40px;
+    border: 0.5px solid white; 
+}
+.small-div45{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 0;
+    top: 80px;
+    border: 0.5px solid white; 
+}
+.small-div46{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    position: absolute;   
+    right: 0;
+    top: 120px;
+    border: 0.5px solid white; 
+}

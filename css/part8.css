@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.big-div{
+ /* border: 1px solid black; */
+ width: 550px;
+ height: 550px;
+ margin: auto;
+ margin-top: 40px;
+ background-color: rgb(218, 218, 218);
+ position: relative;
+   
+}
+.small-div1{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+
+}
+.small-div2{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    top: 220px;
+
+}
+.small-div3{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+
+}
+.small-div4{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 110px;
+    top: 110px;
+
+}
+.small-div5{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 110px;
+    bottom: 110px;
+
+}
+.small-div6{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 220px;
+
+}
+.small-div7{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 220px;
+    top: 220px;
+
+}
+.small-div8{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 220px;
+    bottom: 0;
+
+}
+.small-div9{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 330px;
+    top: 110px;
+
+}
+.small-div10{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 330px;
+    bottom: 110px;
+
+}
+
+.small-div11{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 440px;
+}
+.small-div12{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 440px;
+    top: 220px;
+
+}
+.small-div13{
+    width: 110px;
+    height: 110px;
+    background-color: black;
+    position: absolute;
+    left: 440px;
+    bottom: 0;
+
+}
